@@ -1,0 +1,5 @@
+# options for netmiko.ConnectHandler()
+ip: "192.168.100.1"
+username: "me"
+key_file: "~/.ssh/id_ed25519"
+secret: "my-admin-pass"
